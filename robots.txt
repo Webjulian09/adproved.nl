@@ -1,0 +1,5 @@
+# robots.txt gegenereerd door seosos.nl
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://www.adproved.nl/
